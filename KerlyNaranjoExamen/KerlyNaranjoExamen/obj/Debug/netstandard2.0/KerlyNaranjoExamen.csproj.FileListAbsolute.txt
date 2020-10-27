@@ -1,0 +1,17 @@
+C:\Users\usuario\source\repos\KerlyNaranjoExamen\KerlyNaranjoExamen\KerlyNaranjoExamen\bin\Debug\netstandard2.0\KerlyNaranjoExamen.deps.json
+C:\Users\usuario\source\repos\KerlyNaranjoExamen\KerlyNaranjoExamen\KerlyNaranjoExamen\bin\Debug\netstandard2.0\KerlyNaranjoExamen.dll
+C:\Users\usuario\source\repos\KerlyNaranjoExamen\KerlyNaranjoExamen\KerlyNaranjoExamen\bin\Debug\netstandard2.0\ref\KerlyNaranjoExamen.dll
+C:\Users\usuario\source\repos\KerlyNaranjoExamen\KerlyNaranjoExamen\KerlyNaranjoExamen\bin\Debug\netstandard2.0\KerlyNaranjoExamen.pdb
+C:\Users\usuario\source\repos\KerlyNaranjoExamen\KerlyNaranjoExamen\KerlyNaranjoExamen\obj\Debug\netstandard2.0\KerlyNaranjoExamen.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\KerlyNaranjoExamen\KerlyNaranjoExamen\KerlyNaranjoExamen\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\usuario\source\repos\KerlyNaranjoExamen\KerlyNaranjoExamen\KerlyNaranjoExamen\obj\Debug\netstandard2.0\Login.xaml.g.cs
+C:\Users\usuario\source\repos\KerlyNaranjoExamen\KerlyNaranjoExamen\KerlyNaranjoExamen\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\usuario\source\repos\KerlyNaranjoExamen\KerlyNaranjoExamen\KerlyNaranjoExamen\obj\Debug\netstandard2.0\Registro.xaml.g.cs
+C:\Users\usuario\source\repos\KerlyNaranjoExamen\KerlyNaranjoExamen\KerlyNaranjoExamen\obj\Debug\netstandard2.0\Resumen.xaml.g.cs
+C:\Users\usuario\source\repos\KerlyNaranjoExamen\KerlyNaranjoExamen\KerlyNaranjoExamen\obj\Debug\netstandard2.0\KerlyNaranjoExamen.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\KerlyNaranjoExamen\KerlyNaranjoExamen\KerlyNaranjoExamen\obj\Debug\netstandard2.0\KerlyNaranjoExamen.AssemblyInfo.cs
+C:\Users\usuario\source\repos\KerlyNaranjoExamen\KerlyNaranjoExamen\KerlyNaranjoExamen\obj\Debug\netstandard2.0\KerlyNaranjoExamen.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\KerlyNaranjoExamen\KerlyNaranjoExamen\KerlyNaranjoExamen\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\usuario\source\repos\KerlyNaranjoExamen\KerlyNaranjoExamen\KerlyNaranjoExamen\obj\Debug\netstandard2.0\KerlyNaranjoExamen.dll
+C:\Users\usuario\source\repos\KerlyNaranjoExamen\KerlyNaranjoExamen\KerlyNaranjoExamen\obj\Debug\netstandard2.0\ref\KerlyNaranjoExamen.dll
+C:\Users\usuario\source\repos\KerlyNaranjoExamen\KerlyNaranjoExamen\KerlyNaranjoExamen\obj\Debug\netstandard2.0\KerlyNaranjoExamen.pdb

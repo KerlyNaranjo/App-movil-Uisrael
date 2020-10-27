@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="KerlyNaranjoExamen.Resumen">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+        </Grid.RowDefinitions>
+
+        <StackLayout Grid.Row="1" Padding="35,30">
+            <Label x:Name="txtLogeedUser" HorizontalTextAlignment="Center" FontSize="34" />
+            
+            <Label Text="Nombre" />
+            <Entry x:Name="txtUserName" IsEnabled="False"/>
+
+            <Label Text="Total" />
+            <Entry x:Name="txtTotal" IsEnabled="False"/>
+        </StackLayout>
+    </Grid>
+</ContentPage>

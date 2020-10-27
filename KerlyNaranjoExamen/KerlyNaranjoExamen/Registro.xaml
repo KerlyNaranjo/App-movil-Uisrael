@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="KerlyNaranjoExamen.Registro">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+        </Grid.RowDefinitions>
+
+        <StackLayout Grid.Row="1" Padding="35,30">
+            <Label x:Name="txtLogeedUser" HorizontalTextAlignment="Center" FontSize="34"/>
+
+            <Label Text="Nombre" />
+            <Entry Placeholder="Ingrese su nombre" x:Name="txtName"/>
+
+            <Label Text="Monto inicial" />
+            <Entry Placeholder="Ingrese el monto inicial" x:Name="txtAmount"/>
+
+            <Label Text="Pago mensual" />
+            <Entry Placeholder="Valor" x:Name="txtPayment" IsEnabled="False"/>
+
+            <Button Text="Calcular" Clicked="btnCalculate_Clicked" BackgroundColor="#003164" TextColor="White" />
+            <Button Text="Guardar" Clicked="btnSave_Clicked" BackgroundColor="#003164" TextColor="White" />
+        </StackLayout>
+    </Grid>
+</ContentPage>

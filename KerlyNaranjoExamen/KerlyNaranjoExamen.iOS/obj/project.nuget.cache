@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kepyd4/k3L2FG3floUWsbkwPrgweW3vHlWU/Rt6Rd13i4JN24T2Ym50hhi/ax0XaUBX36oaQq6TKM68j8gJUqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\usuario\\source\\repos\\KerlyNaranjoExamen\\KerlyNaranjoExamen\\KerlyNaranjoExamen.iOS\\KerlyNaranjoExamen.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
